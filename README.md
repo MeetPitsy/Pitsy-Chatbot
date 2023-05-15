@@ -1,9 +1,9 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 Pitsy Manufacturing Chatbot
 ```
 ⬆️ (Replace above with your app's name)
 ```
 
-Description of the app ...
+Description of the app ... This app allows CPG companies to connect with vendors and build products through AI
 
 ## Demo App
 
@@ -11,11 +11,11 @@ Description of the app ...
 
 ## Section Heading
 
-This is filler text, please replace this with text for this section.
+What would you like to create?
 
 ## Further Reading
 
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
+Manufacturing Chatbot
+- Create product
+- vendor procurement 
+- sales and marketing
