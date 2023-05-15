@@ -7,7 +7,7 @@ from hugchat import hugchat
 st.set_page_config(page_title="PitsyChatbot - An LLM-powered Streamlit app")
 
 with st.sidebar:
-    st.title('🤗💬 Pitsy Chatbot app')
+    st.title('🤗💬 HugChat App')
     st.markdown('''
     ## About
     This app is an LLM-powered chatbot built using:
